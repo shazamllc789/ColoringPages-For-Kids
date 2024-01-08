@@ -1,0 +1,56 @@
+{
+  "background_color": "#ffffff",
+  "description": "ColoringPages:For Kids is the ultimate Windows app for young artists in the making. This creative tool offers a vast collection of colorless images that kids can easily print and color to their heart's content!",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "ColoringPages:For Kids",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ColoringPages:For Kids",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "productivity"
+  ],
+  "screenshots": [
+    {
+      "src": "images/screenshot1.png",
+      "sizes": "1919x1024",
+      "type": "image/png"
+    }
+  ],
+  "icons": [
+    {
+      "src": "images/icon-48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "images/icon-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "images/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "images/icon-any.png",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "ColoringPages:For Kids",
+      "url": "",
+      "description": "ColoringPages:For Kids is the ultimate Windows app for young artists in the making. This creative tool offers a vast collection of colorless images that kids can easily print and color to their heart's content!"
+    }
+  ]
+}
